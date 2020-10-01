@@ -21,3 +21,4 @@
 			$('.btn-row_2, .btn-row_1, .btn-row__flex-container_2, .btn-row__flex-container_1').removeClass('active');
 		})
 	})
+ 
